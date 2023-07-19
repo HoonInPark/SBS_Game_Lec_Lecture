@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComputerEngineer" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAhAAAEAAAAA=</HashCode>
+      <FileName>ComputerEngineer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Developer" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAQAAAAIAAAAAAAAAgIAAAAAAAgAAAEAAAAA=</HashCode>
+      <FileName>Developer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAEQAAQAAAAAAEAAAAAAAEAAAAAAAAAEQAAAA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerAdministrator" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQIAEAAAAA=</HashCode>
+      <FileName>ServerAdministrator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

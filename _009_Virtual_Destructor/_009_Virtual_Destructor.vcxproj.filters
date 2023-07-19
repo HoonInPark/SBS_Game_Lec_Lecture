@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="부모클래스">
+      <UniqueIdentifier>{f3a41a6f-0be1-4c81-b2a5-8ab348498c0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자식클래스">
+      <UniqueIdentifier>{1169b1e4-3313-408d-9974-672a864386bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{3f64578c-3921-48cc-8a69-99c59794454f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shape.h">
+      <Filter>부모클래스</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>자식클래스</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>자식클래스</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
