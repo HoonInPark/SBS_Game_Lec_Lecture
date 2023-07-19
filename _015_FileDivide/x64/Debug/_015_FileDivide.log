@@ -1,0 +1,7 @@
+﻿  main.c
+D:\Lecture\_23_CLanguage\CLecture\_015_FileDivide\point.h(3,1): error C2011: '_Point': 'struct' 형식 재정의
+D:\Lecture\_23_CLanguage\CLecture\_015_FileDivide\point.h(2,16): message : '_Point' 선언을 참조하십시오.
+D:\Lecture\_23_CLanguage\CLecture\_015_FileDivide\main.c(22,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Lecture\_23_CLanguage\CLecture\_015_FileDivide\main.c(24,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Lecture\_23_CLanguage\CLecture\_015_FileDivide\main.c(26,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Lecture\_23_CLanguage\CLecture\_015_FileDivide\main.c(28,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
