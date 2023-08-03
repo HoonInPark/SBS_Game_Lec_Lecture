@@ -1,0 +1,10 @@
+﻿  arith.c
+  arithPoint.c
+  main.c
+D:\Lecture\_23_CLanguage\CLecture\_019_FileDivide\main.c(22,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Lecture\_23_CLanguage\CLecture\_019_FileDivide\main.c(24,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Lecture\_23_CLanguage\CLecture\_019_FileDivide\main.c(26,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Lecture\_23_CLanguage\CLecture\_019_FileDivide\main.c(28,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  point.c
+  코드를 생성하고 있습니다...
+  _019_FileDivide.vcxproj -> D:\Lecture\_23_CLanguage\CLecture\x64\Debug\_019_FileDivide.exe
