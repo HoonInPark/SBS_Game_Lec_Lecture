@@ -31,7 +31,8 @@ void EngPresentation()
 * 그 함수의 시작위치를 저장하게 된다.
 */
 
-int GetInputValue(void (*fptr)())
+// GetInputValue라는 함수는 다른 함수를 인풋 값으로 가져오는데, 이 함수는 리턴값이 없고(void), 인풋 값이 없다.
+int GetInputValue(void (*fptr)()) 
 {
 	int num = 0;
 	fptr();

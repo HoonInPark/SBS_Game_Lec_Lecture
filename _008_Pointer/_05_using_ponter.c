@@ -26,7 +26,7 @@ void main()
 {
 	int hour = 0, minute = 0, sec = 0;
 	GetHourMinuteSecond(3725, &hour, &minute, &sec);
-	printf("%02d:%02d:%02d\n", hour, minute, sec);
+	printf("%02d:%02d:%02d\n", hour, minute, sec); // 만약 값이 0이면 00과 같이 0으로 채워넣는 것을 말한다.
 	GetHourMinuteSecond(4000, &hour, &minute, &sec);
 	printf("%02d:%02d:%02d\n", hour, minute, sec);
 }
