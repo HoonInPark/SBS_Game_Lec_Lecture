@@ -11,17 +11,15 @@
 * C언어에서는 typedef를 사용하면 struct의 생략이 가능하다.
 */
 
-/* 원래 구조체 선언
+// 간단한 방법
 struct Human
 {
 	char name[20];
 	int age;
 	float height;
 };
-*/
-
 /*
-* // 1번째 방법
+// 1번째 다른 방법
 struct _Human
 {
 	char name[20];
@@ -29,8 +27,6 @@ struct _Human
 	float height;
 };
 typedef struct _Human Human;
-*/
-
 
 // 2번째 방법
 typedef struct _Human
@@ -39,12 +35,10 @@ typedef struct _Human
 	int age;
 	float height;
 }Human;
-
-
-
+*/
 void main()
 {
-	//struct Human human;
+	//struct Human human; // -> struct 형의 와꾸(?)인데 Human이라 이름을 붙임. 그리고 그것의 객체(?)의 이름을 human으로 한다는 의미.
 	Human human;
 
 	printf("이름 >> ");

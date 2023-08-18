@@ -29,4 +29,4 @@ void main()
 	{
 		printf("%d\n", cnum);
 	}
-}
+}	
